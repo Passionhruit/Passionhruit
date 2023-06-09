@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 
-<h2>📊 GitHub Status</h2>
+<h2>📊 GitHub Stats</h2>
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Passionhruit&show_icons=true&theme=transparent)
