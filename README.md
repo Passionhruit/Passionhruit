@@ -21,6 +21,7 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Passionhruit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Passionhruit&show_icons=true&theme=transparent)
 </div>
 
 <h2>✏️ Blog</h2>
