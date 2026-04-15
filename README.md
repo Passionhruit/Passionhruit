@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b5d8f8,100:8ec5fc&height=220&section=header&text=Mia%20Lee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Service%20Builder&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b5d8f8,100:8ec5fc&height=220&section=header&text=Mia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Service%20Builder&descAlignY=58&descSize=18)
 
 ### 기능을 만드는 개발자가 아니라, 서비스 흐름을 설계하는 개발자
 
