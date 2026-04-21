@@ -144,7 +144,6 @@ Node.js API,
 <div align="center">
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://passionfruit6.tistory.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://mia-portfolio-latest.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Passionhruit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Passionhruit)
 
 </div>
